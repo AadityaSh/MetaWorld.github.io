@@ -1,0 +1,21 @@
+.row1{
+	font-size: 90px;
+	color: springgreen;
+	text-align: center;
+}
+.body{
+	background-image: url(3.jpg);
+	background-size: cover;
+background-attachment: scroll;
+background-repeat: unset;
+}
+.p1{
+	font-size: 40px;
+	color: goldenrod;
+}
+.h{
+	float: right;
+}
+.h:hover{
+	color: springgreen;
+}
